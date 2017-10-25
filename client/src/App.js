@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import axios from 'axios';
 import ReactMapboxGl, { Layer, Feature, Marker, ScaleControl } from "react-mapbox-gl";
 import axios from 'axios'
 
@@ -13,7 +12,8 @@ class App extends Component {
     super(props);
     this.state = {
       coordinates: [-117.1611, 32.7157],
-      textInput: ''
+      textInput: '',
+      parking: []
     }
     this.updateTextInput = this.updateTextInput.bind(this)
     this.submitTextInput = this.submitTextInput.bind(this)
