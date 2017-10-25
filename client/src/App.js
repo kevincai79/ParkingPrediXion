@@ -11,7 +11,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      coordinates: [-117.1611, 32.7157],
+      coordinates: [-117.157122, 32.712854],
       textInput: '',
       parking: []
     }
@@ -61,7 +61,7 @@ class App extends Component {
           center={this.state.coordinates}
           style="mapbox://styles/mapbox/streets-v9"
 	        onStyleLoad={this._onStyleLoad.bind(this)}
-	        zoom={[15]}
+	        zoom={[16.5]}
           containerStyle={{
             height: "100vh",
             width: "100vw"
