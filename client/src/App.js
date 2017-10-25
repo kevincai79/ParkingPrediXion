@@ -20,9 +20,14 @@ class App extends Component {
   }
 
   componentDidMount() {
-    navigator.geolocation.getCurrentPosition((position) => {
-      this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
-    });
+    // navigator.geolocation.getCurrentPosition((position) => {
+    //   this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
+    // });
+    axios.get(`https://fiery-doves-server.run.aws-usw02-pr.ice.predix.io?timestamp=${Number(new Date)}`)
+      .then(res => {
+        console.log(res)
+        this.setState({parking: res.data});
+      });
   }
 
   updateTextInput(e) {
@@ -34,19 +39,12 @@ class App extends Component {
   submitTextInput(e) {
     if(e.key === 'Enter') {
       let url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURI(this.state.textInput)}.json?access_token=pk.eyJ1Ijoia2V2aW5jYWk3OSIsImEiOiJjajk2YXBqMHUwMjd6MnpvbHU3a3FiODE4In0.Akrpxhy1oIxzIQ34EB1adg`
-      console.log(url)
       axios.get(url)
         .then(({data}) => this.setState({
           coordinates: data.features[0].center
         }))
         .catch(error => console.log("MapBox Place API FAIL: ", error))
     }
-
-    axios.get(`http://localhost:8081`)
-      .then(res => {
-        console.log(res)
-        this.setState({parking: res.data});
-      });
   }
 
   _onStyleLoad(map, event) {
