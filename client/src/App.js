@@ -23,7 +23,8 @@ class App extends Component {
     // navigator.geolocation.getCurrentPosition((position) => {
     //   this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
     // });
-    axios.get(`https://fiery-doves-server.run.aws-usw02-pr.ice.predix.io?timestamp=${Number(new Date)}`)
+    console.log(`https://fiery-doves-server-v2.run.aws-usw02-pr.ice.predix.io?ts=${Number(new Date)}&long=${this.state.coordinates[0]}&lat=${this.state.coordinates[1]}`)
+    axios.get(`https://fiery-doves-server-v2.run.aws-usw02-pr.ice.predix.io?ts=${Number(new Date)}&long=${this.state.coordinates[0]}&lat=${this.state.coordinates[1]}`)
       .then(res => {
         console.log(res)
         this.setState({parking: res.data});
@@ -86,6 +87,20 @@ class App extends Component {
             fontSize: "1.4em"
           }}
         />
+        <div
+          className="recommendation"
+          style={{
+            borderRadius: "5px",
+            position: "absolute",
+            top: "80px",
+            left: "20px",
+            backgroundColor: "rgba(255, 255, 255, .7)",
+            padding: "1.5em"
+
+          }}
+        >
+          This stuff is happending
+        </div>
       </div>
     );
   }
