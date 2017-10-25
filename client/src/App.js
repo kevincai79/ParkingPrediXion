@@ -58,7 +58,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Smart Park</h1>
+        <h1>Parking PrediXion</h1>
         <Map
           center={this.state.coordinates}
           style="mapbox://styles/mapbox/streets-v9"
@@ -75,17 +75,17 @@ class App extends Component {
             <img src="pin.png" style={{height: "45px", width: "45px"}}/>
           </Marker>
         </Map>
-        <input type="text" 
-          onChange={this.updateTextInput} 
-          onKeyUp={this.submitTextInput} 
+        <input type="text"
+          onChange={this.updateTextInput}
+          onKeyUp={this.submitTextInput}
           value={this.state.textInput}
           placeholder="Enter a location"
           style={{
             position: "absolute",
-            bottom: "50px",
-            left: "20px",
-            width: "400px",
-            fontSize: "1.5em"
+            bottom: "20px",
+            left: "9%",
+            width: "80%",
+            fontSize: "1.4em"
           }}
         />
       </div>
