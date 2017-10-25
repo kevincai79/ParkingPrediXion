@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import ReactMapboxGl, { Layer, Feature, Marker, ScaleControl } from "react-mapbox-gl";
+import axios from 'axios'
 
 const Map = ReactMapboxGl({
   accessToken: "pk.eyJ1Ijoia2V2aW5jYWk3OSIsImEiOiJjajk2YXBqMHUwMjd6MnpvbHU3a3FiODE4In0.Akrpxhy1oIxzIQ34EB1adg"
@@ -14,7 +15,7 @@ class App extends Component {
       textInput: ''
     }
     this.updateTextInput = this.updateTextInput.bind(this)
-
+    this.submitTextInput = this.submitTextInput.bind(this)
   }
 
   componentDidMount() {
@@ -30,7 +31,15 @@ class App extends Component {
   }
 
   submitTextInput(e) {
-    console.log(e.key)
+    if(e.key === 'Enter') {
+      let url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURI(this.state.textInput)}.json?access_token=pk.eyJ1Ijoia2V2aW5jYWk3OSIsImEiOiJjajk2YXBqMHUwMjd6MnpvbHU3a3FiODE4In0.Akrpxhy1oIxzIQ34EB1adg`
+      console.log(url)
+      axios.get(url)
+        .then(({data}) => this.setState({
+          coordinates: data.features[0].center
+        }))
+        .catch(error => console.log("MapBox Place API FAIL: ", error))
+    }
   }
 
   render() {
@@ -57,6 +66,13 @@ class App extends Component {
           onKeyUp={this.submitTextInput} 
           value={this.state.textInput}
           placeholder="Enter a location"
+          style={{
+            position: "absolute",
+            bottom: "50px",
+            left: "20px",
+            width: "400px",
+            fontSize: "1.5em"
+          }}
         />
       </div>
     );
