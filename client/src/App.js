@@ -9,14 +9,28 @@ const Map = ReactMapboxGl({
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {coordinates: [-117.1611, 32.7157]}
+    this.state = {
+      coordinates: [-117.1611, 32.7157],
+      textInput: ''
+    }
+    this.updateTextInput = this.updateTextInput.bind(this)
 
   }
 
   componentDidMount() {
     navigator.geolocation.getCurrentPosition((position) => {
       this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
-});
+    });
+  }
+
+  updateTextInput(e) {
+    this.setState({
+      textInput: e.target.value
+    })
+  }
+
+  submitTextInput(e) {
+    console.log(e.key)
   }
 
   render() {
@@ -32,12 +46,18 @@ class App extends Component {
             width: "100vw"
           }}
         >
-            <Marker
-              coordinates={this.state.coordinates}
-            >
-              <img src="pin.png" style={{height: "45px", width: "45px"}}/>
-            </Marker>
-      </Map>
+          <Marker
+            coordinates={this.state.coordinates}
+          >
+            <img src="pin.png" style={{height: "45px", width: "45px"}}/>
+          </Marker>
+        </Map>
+        <input type="text" 
+          onChange={this.updateTextInput} 
+          onKeyUp={this.submitTextInput} 
+          value={this.state.textInput}
+          placeholder="Enter a location"
+        />
       </div>
     );
   }
