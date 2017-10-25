@@ -13,7 +13,8 @@ class App extends Component {
     this.state = {
       coordinates: [-117.157122, 32.712854],
       textInput: '',
-      parking: []
+      parking: [],
+      suggestions: []
     }
     this.updateTextInput = this.updateTextInput.bind(this)
     this.submitTextInput = this.submitTextInput.bind(this)
@@ -25,9 +26,12 @@ class App extends Component {
     // });
     console.log(`https://fiery-doves-server-v2.run.aws-usw02-pr.ice.predix.io?ts=${Number(new Date)}&long=${this.state.coordinates[0]}&lat=${this.state.coordinates[1]}`)
     axios.get(`https://fiery-doves-server-v2.run.aws-usw02-pr.ice.predix.io?ts=${Number(new Date)}&long=${this.state.coordinates[0]}&lat=${this.state.coordinates[1]}`)
-      .then(res => {
-        console.log(res)
-        this.setState({parking: res.data});
+      .then(({ data: {zones, suggestions}}) => {
+        console.log("zones: ", zones, "suggestions: ", suggestions)
+        this.setState({
+          parking: zones,
+          suggestions: suggestions
+        });
       });
   }
 
