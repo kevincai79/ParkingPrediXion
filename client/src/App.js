@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import ReactMapboxGl, { Layer, Feature } from "react-mapbox-gl";
+import ReactMapboxGl, { Layer, Feature, Marker, ScaleControl } from "react-mapbox-gl";
 // import from "react-mapbox-gl/css";
 
 const Map = ReactMapboxGl({
@@ -8,26 +8,38 @@ const Map = ReactMapboxGl({
 });
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {coordinates: [-117.1611, 32.7157]}
+
+  }
+
+  componentDidMount() {
+    navigator.geolocation.getCurrentPosition((position) => {
+      this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
+    console.log(position.coords.latitude);
+    console.log(position.coords.longitude);
+});
+  }
 
   render() {
     return (
       <div className="App">
         <h1>Smart Park</h1>
         <Map
+          center={this.state.coordinates}
           style="mapbox://styles/mapbox/streets-v9"
+          zoom={[15]}
           containerStyle={{
             height: "100vh",
             width: "100vw"
           }}
-          center={[-117.1611, 32.7157]}
-          zoom={[15]}
-          >
-          <Layer
-            type="symbol"
-            id="marker"
-            layout={{ "icon-image": "marker-15" }}>
-            <Feature coordinates={[-0.481747846041145, 51.3233379650232]}/>
-          </Layer>
+        >
+            <Marker
+              coordinates={this.state.coordinates}
+            >
+              <img src="http://maplacejs.com/website/images/red-dot.png" style={{height: "25px", width: "25px"}}/>
+            </Marker>
       </Map>
       </div>
     );
