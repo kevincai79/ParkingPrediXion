@@ -10,22 +10,13 @@ const Map = ReactMapboxGl({
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {coordinates: [-117.1611, 32.7157]}
-
+    this.state = {coordinates: [-117.1611, 32.7157], parking: []};
   }
 
   componentDidMount() {
     navigator.geolocation.getCurrentPosition((position) => {
       this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
-});
-  }
-
-  constructor() {
-    super();
-    this.state = {parking: []}
-  }
-
-  componentDidMount() {
+    });
     axios.get(`http://localhost:8081`)
       .then(res => {
         console.log(res)
