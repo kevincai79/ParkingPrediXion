@@ -1,0 +1,1349 @@
+{
+    "content": [
+        {
+            "assetUid": "CAM-HYP1017-L",
+            "parentAssetUid": "NODE-HYP1017",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714759:-117.157563"
+        },
+        {
+            "assetUid": "CAM-HYP1030-L",
+            "parentAssetUid": "NODE-HYP1030",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712695:-117.157313"
+        },
+        {
+            "assetUid": "CAM-HYP1039-L",
+            "parentAssetUid": "NODE-HYP1039",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712668:-117.157546"
+        },
+        {
+            "assetUid": "CAM-HYP1040-L",
+            "parentAssetUid": "NODE-HYP1040",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711653:-117.157314"
+        },
+        {
+            "assetUid": "CAM-HYP1041-L",
+            "parentAssetUid": "NODE-HYP1041",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712513:-117.157283"
+        },
+        {
+            "assetUid": "CAM-HYP1047-L",
+            "parentAssetUid": "NODE-HYP1047",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711664:-117.156404"
+        },
+        {
+            "assetUid": "CAM-HYP1050-L",
+            "parentAssetUid": "NODE-HYP1050",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711618:-117.157534"
+        },
+        {
+            "assetUid": "CAM-HYP1052-L",
+            "parentAssetUid": "NODE-HYP1052",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712468:-117.157511"
+        },
+        {
+            "assetUid": "CAM-HYP1061-L",
+            "parentAssetUid": "NODE-HYP1061",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713521:-117.159346"
+        },
+        {
+            "assetUid": "CAM-HYP1063-L",
+            "parentAssetUid": "NODE-HYP1063",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714806:-117.156426"
+        },
+        {
+            "assetUid": "CAM-HYP1066-L",
+            "parentAssetUid": "NODE-HYP1066",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714774:-117.158245"
+        },
+        {
+            "assetUid": "CAM-HYP1068-L",
+            "parentAssetUid": "NODE-HYP1068",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713521:-117.158423"
+        },
+        {
+            "assetUid": "CAM-HYP1070-L",
+            "parentAssetUid": "NODE-HYP1070",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713534:-117.157517"
+        },
+        {
+            "assetUid": "CAM-HYP1071-L",
+            "parentAssetUid": "NODE-HYP1071",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.156634"
+        },
+        {
+            "assetUid": "CAM-HYP1072-L",
+            "parentAssetUid": "NODE-HYP1072",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71459:-117.158204"
+        },
+        {
+            "assetUid": "CAM-HYP1073-L",
+            "parentAssetUid": "NODE-HYP1073",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.157547"
+        },
+        {
+            "assetUid": "CAM-HYP1083-R",
+            "parentAssetUid": "NODE-HYP1083",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713557:-117.157961"
+        },
+        {
+            "assetUid": "CAM-HYP1065-R",
+            "parentAssetUid": "NODE-HYP1065",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713549:-117.159114"
+        },
+        {
+            "assetUid": "CAM-HYP1062-R",
+            "parentAssetUid": "NODE-HYP1062",
+            "eventTypes": [],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713552:-117.15846"
+        },
+        {
+            "assetUid": "CAM-HYP1042-L",
+            "parentAssetUid": "NODE-HYP1042",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711628:-117.156618"
+        },
+        {
+            "assetUid": "CAM-HYP1037-L",
+            "parentAssetUid": "NODE-HYP1037",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711421:-117.157264"
+        },
+        {
+            "assetUid": "CAM-HYP1081-L",
+            "parentAssetUid": "NODE-HYP1081",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711617:-117.158441"
+        },
+        {
+            "assetUid": "CAM-HYP1077-L",
+            "parentAssetUid": "NODE-HYP1077",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.715611:-117.157534"
+        },
+        {
+            "assetUid": "CAM-HYP1074-L",
+            "parentAssetUid": "NODE-HYP1074",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714797:-117.157343"
+        },
+        {
+            "assetUid": "CAM-HYP1064-L",
+            "parentAssetUid": "NODE-HYP1064",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713763:-117.156411"
+        },
+        {
+            "assetUid": "CAM-HYP1018-L",
+            "parentAssetUid": "NODE-HYP1018",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713735:-117.158238"
+        },
+        {
+            "assetUid": "CAM-HYP1065-L",
+            "parentAssetUid": "NODE-HYP1065",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713549:-117.159114"
+        },
+        {
+            "assetUid": "CAM-HYP1046-L",
+            "parentAssetUid": "NODE-HYP1046",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712471:-117.158423"
+        },
+        {
+            "assetUid": "CAM-HYP1082-L",
+            "parentAssetUid": "NODE-HYP1082",
+            "eventTypes": [
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712672:-117.156635"
+        },
+        {
+            "assetUid": "CAM-HYP1047-R",
+            "parentAssetUid": "NODE-HYP1047",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711664:-117.156404"
+        },
+        {
+            "assetUid": "CAM-HYP1071-F",
+            "parentAssetUid": "NODE-HYP1071",
+            "eventTypes": [
+                "PKIN",
+                "TFEVT",
+                "PKOUT",
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.156634"
+        },
+        {
+            "assetUid": "CAM-HYP1077-R",
+            "parentAssetUid": "NODE-HYP1077",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.715611:-117.157534"
+        },
+        {
+            "assetUid": "CAM-HYP1043-F",
+            "parentAssetUid": "NODE-HYP1043",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712513:-117.158008"
+        },
+        {
+            "assetUid": "CAM-HYP1065-F",
+            "parentAssetUid": "NODE-HYP1065",
+            "eventTypes": [
+                "PKOUT",
+                "TFEVT",
+                "PEDEVT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713549:-117.159114"
+        },
+        {
+            "assetUid": "CAM-HYP1068-F",
+            "parentAssetUid": "NODE-HYP1068",
+            "eventTypes": [
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713521:-117.158423"
+        },
+        {
+            "assetUid": "CAM-HYP1073-F",
+            "parentAssetUid": "NODE-HYP1073",
+            "eventTypes": [
+                "TFEVT",
+                "PEDEVT",
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.157547"
+        },
+        {
+            "assetUid": "CAM-HYP1078-L",
+            "parentAssetUid": "NODE-HYP1078",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712507:-117.157666"
+        },
+        {
+            "assetUid": "CAM-HYP1062-F",
+            "parentAssetUid": "NODE-HYP1062",
+            "eventTypes": [
+                "TFEVT",
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713552:-117.15846"
+        },
+        {
+            "assetUid": "CAM-HYP1037-R",
+            "parentAssetUid": "NODE-HYP1037",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711421:-117.157264"
+        },
+        {
+            "assetUid": "CAM-HYP1024-F",
+            "parentAssetUid": "NODE-HYP1024",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713715:-117.157158"
+        },
+        {
+            "assetUid": "CAM-HYP1081-F",
+            "parentAssetUid": "NODE-HYP1081",
+            "eventTypes": [
+                "TFEVT",
+                "PEDEVT",
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711617:-117.158441"
+        },
+        {
+            "assetUid": "CAM-HYP1061-F",
+            "parentAssetUid": "NODE-HYP1061",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713521:-117.159346"
+        },
+        {
+            "assetUid": "CAM-HYP1070-R",
+            "parentAssetUid": "NODE-HYP1070",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713534:-117.157517"
+        },
+        {
+            "assetUid": "CAM-HYP1052-R",
+            "parentAssetUid": "NODE-HYP1052",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712468:-117.157511"
+        },
+        {
+            "assetUid": "CAM-HYP1029-L",
+            "parentAssetUid": "NODE-HYP1029",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71355:-117.158815"
+        },
+        {
+            "assetUid": "CAM-HYP1042-F",
+            "parentAssetUid": "NODE-HYP1042",
+            "eventTypes": [
+                "TFEVT",
+                "PEDEVT",
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711628:-117.156618"
+        },
+        {
+            "assetUid": "CAM-HYP1032-F",
+            "parentAssetUid": "NODE-HYP1032",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71162:-117.156866"
+        },
+        {
+            "assetUid": "CAM-HYP1030-R",
+            "parentAssetUid": "NODE-HYP1030",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712695:-117.157313"
+        },
+        {
+            "assetUid": "CAM-HYP1077-F",
+            "parentAssetUid": "NODE-HYP1077",
+            "eventTypes": [
+                "PEDEVT",
+                "PKIN",
+                "PKOUT",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.715611:-117.157534"
+        },
+        {
+            "assetUid": "CAM-HYP1039-F",
+            "parentAssetUid": "NODE-HYP1039",
+            "eventTypes": [
+                "PEDEVT",
+                "PKOUT",
+                "TFEVT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712668:-117.157546"
+        },
+        {
+            "assetUid": "CAM-HYP1018-R",
+            "parentAssetUid": "NODE-HYP1018",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713735:-117.158238"
+        },
+        {
+            "assetUid": "CAM-HYP1082-R",
+            "parentAssetUid": "NODE-HYP1082",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712672:-117.156635"
+        },
+        {
+            "assetUid": "CAM-HYP1033-F",
+            "parentAssetUid": "NODE-HYP1033",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71162:-117.157972"
+        },
+        {
+            "assetUid": "CAM-HYP1029-R",
+            "parentAssetUid": "NODE-HYP1029",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71355:-117.158815"
+        },
+        {
+            "assetUid": "CAM-HYP1042-R",
+            "parentAssetUid": "NODE-HYP1042",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711628:-117.156618"
+        },
+        {
+            "assetUid": "CAM-HYP1074-R",
+            "parentAssetUid": "NODE-HYP1074",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714797:-117.157343"
+        },
+        {
+            "assetUid": "CAM-HYP1073-R",
+            "parentAssetUid": "NODE-HYP1073",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.157547"
+        },
+        {
+            "assetUid": "CAM-HYP1040-F",
+            "parentAssetUid": "NODE-HYP1040",
+            "eventTypes": [
+                "TFEVT",
+                "PEDEVT",
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711653:-117.157314"
+        },
+        {
+            "assetUid": "CAM-HYP1066-F",
+            "parentAssetUid": "NODE-HYP1066",
+            "eventTypes": [
+                "PEDEVT",
+                "PKOUT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714774:-117.158245"
+        },
+        {
+            "assetUid": "CAM-HYP1032-L",
+            "parentAssetUid": "NODE-HYP1032",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71162:-117.156866"
+        },
+        {
+            "assetUid": "CAM-HYP1037-F",
+            "parentAssetUid": "NODE-HYP1037",
+            "eventTypes": [
+                "PKIN",
+                "TFEVT",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711421:-117.157264"
+        },
+        {
+            "assetUid": "CAM-HYP1029-F",
+            "parentAssetUid": "NODE-HYP1029",
+            "eventTypes": [
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71355:-117.158815"
+        },
+        {
+            "assetUid": "CAM-HYP1078-R",
+            "parentAssetUid": "NODE-HYP1078",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712507:-117.157666"
+        },
+        {
+            "assetUid": "CAM-HYP1072-F",
+            "parentAssetUid": "NODE-HYP1072",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71459:-117.158204"
+        },
+        {
+            "assetUid": "CAM-HYP1018-F",
+            "parentAssetUid": "NODE-HYP1018",
+            "eventTypes": [
+                "TFEVT",
+                "PKOUT",
+                "PEDEVT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713735:-117.158238"
+        },
+        {
+            "assetUid": "CAM-HYP1063-F",
+            "parentAssetUid": "NODE-HYP1063",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT",
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714806:-117.156426"
+        },
+        {
+            "assetUid": "CAM-HYP1072-R",
+            "parentAssetUid": "NODE-HYP1072",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71459:-117.158204"
+        },
+        {
+            "assetUid": "CAM-HYP1064-R",
+            "parentAssetUid": "NODE-HYP1064",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713763:-117.156411"
+        },
+        {
+            "assetUid": "CAM-HYP1028-F",
+            "parentAssetUid": "NODE-HYP1028",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713559:-117.15765"
+        },
+        {
+            "assetUid": "CAM-HYP1078-F",
+            "parentAssetUid": "NODE-HYP1078",
+            "eventTypes": [
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712507:-117.157666"
+        },
+        {
+            "assetUid": "CAM-HYP1061-R",
+            "parentAssetUid": "NODE-HYP1061",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713521:-117.159346"
+        },
+        {
+            "assetUid": "CAM-HYP1023-R",
+            "parentAssetUid": "NODE-HYP1023",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711615:-117.157765"
+        },
+        {
+            "assetUid": "CAM-HYP1033-R",
+            "parentAssetUid": "NODE-HYP1033",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71162:-117.157972"
+        },
+        {
+            "assetUid": "CAM-HYP1041-F",
+            "parentAssetUid": "NODE-HYP1041",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT",
+                "PEDEVT",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712513:-117.157283"
+        },
+        {
+            "assetUid": "CAM-HYP1050-R",
+            "parentAssetUid": "NODE-HYP1050",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711618:-117.157534"
+        },
+        {
+            "assetUid": "CAM-HYP1008-R",
+            "parentAssetUid": "NODE-HYP1008",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.156876"
+        },
+        {
+            "assetUid": "CAM-HYP1022-L",
+            "parentAssetUid": "NODE-HYP1022",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712502:-117.158897"
+        },
+        {
+            "assetUid": "CAM-HYP1081-R",
+            "parentAssetUid": "NODE-HYP1081",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711617:-117.158441"
+        },
+        {
+            "assetUid": "CAM-HYP1008-L",
+            "parentAssetUid": "NODE-HYP1008",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.156876"
+        },
+        {
+            "assetUid": "CAM-HYP1026-L",
+            "parentAssetUid": "NODE-HYP1026",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711426:-117.156802"
+        },
+        {
+            "assetUid": "CAM-HYP1028-L",
+            "parentAssetUid": "NODE-HYP1028",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713559:-117.15765"
+        },
+        {
+            "assetUid": "CAM-HYP1068-R",
+            "parentAssetUid": "NODE-HYP1068",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713521:-117.158423"
+        },
+        {
+            "assetUid": "CAM-HYP1039-R",
+            "parentAssetUid": "NODE-HYP1039",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712668:-117.157546"
+        },
+        {
+            "assetUid": "CAM-HYP1021-R",
+            "parentAssetUid": "NODE-HYP1021",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713562:-117.156732"
+        },
+        {
+            "assetUid": "CAM-HYP1040-R",
+            "parentAssetUid": "NODE-HYP1040",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711653:-117.157314"
+        },
+        {
+            "assetUid": "CAM-HYP1034-L",
+            "parentAssetUid": "NODE-HYP1034",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711424:-117.157012"
+        },
+        {
+            "assetUid": "CAM-HYP1046-R",
+            "parentAssetUid": "NODE-HYP1046",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712471:-117.158423"
+        },
+        {
+            "assetUid": "CAM-HYP1050-F",
+            "parentAssetUid": "NODE-HYP1050",
+            "eventTypes": [
+                "PEDEVT",
+                "PKOUT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711618:-117.157534"
+        },
+        {
+            "assetUid": "CAM-HYP1026-R",
+            "parentAssetUid": "NODE-HYP1026",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711426:-117.156802"
+        },
+        {
+            "assetUid": "CAM-HYP1023-L",
+            "parentAssetUid": "NODE-HYP1023",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711615:-117.157765"
+        },
+        {
+            "assetUid": "CAM-HYP1064-F",
+            "parentAssetUid": "NODE-HYP1064",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713763:-117.156411"
+        },
+        {
+            "assetUid": "CAM-HYP1024-R",
+            "parentAssetUid": "NODE-HYP1024",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713715:-117.157158"
+        },
+        {
+            "assetUid": "CAM-HYP1079-F",
+            "parentAssetUid": "NODE-HYP1079",
+            "eventTypes": [
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713561:-117.156982"
+        },
+        {
+            "assetUid": "CAM-HYP1034-F",
+            "parentAssetUid": "NODE-HYP1034",
+            "eventTypes": [
+                "PKIN",
+                "TFEVT",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711424:-117.157012"
+        },
+        {
+            "assetUid": "CAM-HYP1043-R",
+            "parentAssetUid": "NODE-HYP1043",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712513:-117.158008"
+        },
+        {
+            "assetUid": "CAM-HYP1062-L",
+            "parentAssetUid": "NODE-HYP1062",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713552:-117.15846"
+        },
+        {
+            "assetUid": "CAM-HYP1022-F",
+            "parentAssetUid": "NODE-HYP1022",
+            "eventTypes": [
+                "PKOUT",
+                "TFEVT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712502:-117.158897"
+        },
+        {
+            "assetUid": "CAM-HYP1017-F",
+            "parentAssetUid": "NODE-HYP1017",
+            "eventTypes": [
+                "PEDEVT",
+                "PKOUT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714759:-117.157563"
+        },
+        {
+            "assetUid": "CAM-HYP1074-F",
+            "parentAssetUid": "NODE-HYP1074",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT",
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714797:-117.157343"
+        },
+        {
+            "assetUid": "CAM-HYP1083-F",
+            "parentAssetUid": "NODE-HYP1083",
+            "eventTypes": [
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713557:-117.157961"
+        },
+        {
+            "assetUid": "CAM-HYP1023-F",
+            "parentAssetUid": "NODE-HYP1023",
+            "eventTypes": [
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711615:-117.157765"
+        },
+        {
+            "assetUid": "CAM-HYP1047-F",
+            "parentAssetUid": "NODE-HYP1047",
+            "eventTypes": [
+                "TFEVT",
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711664:-117.156404"
+        },
+        {
+            "assetUid": "CAM-HYP1034-R",
+            "parentAssetUid": "NODE-HYP1034",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711424:-117.157012"
+        },
+        {
+            "assetUid": "CAM-HYP1024-L",
+            "parentAssetUid": "NODE-HYP1024",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713715:-117.157158"
+        },
+        {
+            "assetUid": "CAM-HYP1022-R",
+            "parentAssetUid": "NODE-HYP1022",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712502:-117.158897"
+        },
+        {
+            "assetUid": "CAM-HYP1063-R",
+            "parentAssetUid": "NODE-HYP1063",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714806:-117.156426"
+        },
+        {
+            "assetUid": "CAM-HYP1043-L",
+            "parentAssetUid": "NODE-HYP1043",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712513:-117.158008"
+        },
+        {
+            "assetUid": "CAM-HYP1021-L",
+            "parentAssetUid": "NODE-HYP1021",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713562:-117.156732"
+        },
+        {
+            "assetUid": "CAM-HYP1054-F",
+            "parentAssetUid": "NODE-HYP1054",
+            "eventTypes": [
+                "TFEVT",
+                "PKOUT",
+                "PKIN",
+                "PEDEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712514:-117.158185"
+        },
+        {
+            "assetUid": "CAM-HYP1033-L",
+            "parentAssetUid": "NODE-HYP1033",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71162:-117.157972"
+        },
+        {
+            "assetUid": "CAM-HYP1066-R",
+            "parentAssetUid": "NODE-HYP1066",
+            "eventTypes": [
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714774:-117.158245"
+        },
+        {
+            "assetUid": "CAM-HYP1070-F",
+            "parentAssetUid": "NODE-HYP1070",
+            "eventTypes": [
+                "PKOUT",
+                "PEDEVT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713534:-117.157517"
+        },
+        {
+            "assetUid": "CAM-HYP1046-F",
+            "parentAssetUid": "NODE-HYP1046",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PEDEVT",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712471:-117.158423"
+        },
+        {
+            "assetUid": "CAM-HYP1041-R",
+            "parentAssetUid": "NODE-HYP1041",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712513:-117.157283"
+        },
+        {
+            "assetUid": "CAM-HYP1017-R",
+            "parentAssetUid": "NODE-HYP1017",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.714759:-117.157563"
+        },
+        {
+            "assetUid": "CAM-HYP1082-F",
+            "parentAssetUid": "NODE-HYP1082",
+            "eventTypes": [
+                "PKOUT",
+                "PEDEVT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712672:-117.156635"
+        },
+        {
+            "assetUid": "CAM-HYP1030-F",
+            "parentAssetUid": "NODE-HYP1030",
+            "eventTypes": [
+                "PKOUT",
+                "PEDEVT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712695:-117.157313"
+        },
+        {
+            "assetUid": "CAM-HYP1026-F",
+            "parentAssetUid": "NODE-HYP1026",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN",
+                "TFEVT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.711426:-117.156802"
+        },
+        {
+            "assetUid": "CAM-HYP1052-F",
+            "parentAssetUid": "NODE-HYP1052",
+            "eventTypes": [
+                "PKOUT",
+                "TFEVT",
+                "PEDEVT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.712468:-117.157511"
+        },
+        {
+            "assetUid": "CAM-HYP1008-F",
+            "parentAssetUid": "NODE-HYP1008",
+            "eventTypes": [
+                "TFEVT",
+                "PKIN",
+                "PKOUT"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.156876"
+        },
+        {
+            "assetUid": "CAM-HYP1032-R",
+            "parentAssetUid": "NODE-HYP1032",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71162:-117.156866"
+        },
+        {
+            "assetUid": "CAM-HYP1071-R",
+            "parentAssetUid": "NODE-HYP1071",
+            "eventTypes": [
+                "PKOUT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.71372:-117.156634"
+        },
+        {
+            "assetUid": "CAM-HYP1021-F",
+            "parentAssetUid": "NODE-HYP1021",
+            "eventTypes": [
+                "PKOUT",
+                "TFEVT",
+                "PKIN"
+            ],
+            "mediaType": "IMAGE,VIDEO",
+            "assetType": "CAMERA",
+            "coordinates": "32.713562:-117.156732"
+        }
+    ],
+    "last": true,
+    "totalElements": 123,
+    "totalPages": 1,
+    "sort": null,
+    "first": true,
+    "numberOfElements": 123,
+    "size": 200,
+    "number": 0
+}
