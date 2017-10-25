@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import axios from 'axios';
 import ReactMapboxGl, { Layer, Feature, Marker, ScaleControl } from "react-mapbox-gl";
 import axios from 'axios'
 
@@ -40,6 +41,18 @@ class App extends Component {
         }))
         .catch(error => console.log("MapBox Place API FAIL: ", error))
     }
+
+    axios.get(`http://localhost:8081`)
+      .then(res => {
+        console.log(res)
+        this.setState({parking: res.data});
+      });
+  }
+
+  _onStyleLoad(map, event) {
+    this.state.parking.forEach(spot => {
+      map.addLayer(spot)
+    });
   }
 
   render() {
@@ -49,7 +62,8 @@ class App extends Component {
         <Map
           center={this.state.coordinates}
           style="mapbox://styles/mapbox/streets-v9"
-          zoom={[15]}
+	        onStyleLoad={this._onStyleLoad.bind(this)}
+	        zoom={[15]}
           containerStyle={{
             height: "100vh",
             width: "100vw"

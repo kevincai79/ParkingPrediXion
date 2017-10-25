@@ -1,0 +1,428 @@
+{
+    "content": [
+        {
+            "locationUid": "LOC-ATL-0016-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74857418061496:-84.38861624265422,33.748616115969796:-84.38863559226229,33.74859915110634:-84.38872496595599,33.74855331274482:-84.38865752896777",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0013-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74812702708394:-84.39066976557211,33.74816980445335:-84.39068623471428,33.74815706525299:-84.39077661793004,33.74810813207981:-84.3907124036698",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0006-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74893460573516:-84.38948635491181,33.74889243794545:-84.38946775021753,33.7489083062858:-84.38937808536144,33.748954965679495:-84.38944470321326",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0015-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.750031599033065:-84.38833101909535,33.75007397642773:-84.38834892191403,33.75005913908722:-84.38843884297182,33.750011719282135:-84.38837300549005",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0002-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.749593781783325:-84.39049034336585,33.74963633602629:-84.390507628676,33.7496224035841:-84.39059775841963,33.74957432549847:-84.39053261550242",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0005-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74863654242401:-84.39161860927902,33.74867973970038:-84.39163340854401,33.748669434050775:-84.39172423992278,33.74861880216291:-84.39166195923468",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0014-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74847312197465:-84.38960860492153,33.74848960408073:-84.38955835458796,33.74856375416245:-84.38957959632239,33.748507253311395:-84.3896340888009",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0001-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.749292285652956:-84.38713731670606,33.74921191600962:-84.3872078586734,33.74916147063983:-84.3871561773698,33.74936353478881:-84.38627277130021",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0003-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74815939295983:-84.38786364251484,33.748201559367836:-84.38788225157901,33.74818568429108:-84.3879719139714,33.74813902991492:-84.38790529163452",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0004-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.747851890099945:-84.39033689360554,33.74781003492327:-84.39031729468331,33.747827367460005:-84.39022802391065,33.747872927686615:-84.39029573239799",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0007-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74789880387182:-84.39008133886023,33.74791009200843:-84.39002905419284,33.74798583777607:-84.3900393131945,33.74793525503755:-84.39010165112478",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0020-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74994512741626:-84.38858697079468,33.74993003469465:-84.38863784944834,33.74985534158065:-84.38861956521475,33.749910314649405:-84.3885628566012",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0019-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.750753274086044:-84.38964942073994,33.75079531291283:-84.38966844330184,33.75077883040603:-84.38975794972725,33.750732629315394:-84.38969087002101",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0010-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74906944904877:-84.3893619669447,33.74898897888533:-84.38922345110126,33.74904775750095:-84.389140771682,33.74915544807226:-84.38925730866798",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0018-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74955623082804:-84.38878873896084,33.74957064366223:-84.38873757616955,33.74964557082317:-84.38875441834784,33.74959136042762:-84.38881217901599",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0008-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74849645240831:-84.3916245263747,33.748482650129574:-84.39167593146038,33.74840753015211:-84.39166038140058,33.74846104734889:-84.39160169396013",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0012-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74922885280685:-84.39001982136222,33.74918695513622:-84.39000035389608,33.7492040934062:-84.38991102745621,33.74924980077582:-84.38997859343658",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0017-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.74901092638097:-84.38736783098344,33.749106146998514:-84.38749338124586,33.749030577531094:-84.38752374605683,33.74895857829545:-84.3873970947298",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0011-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.750731347666175:-84.38995373814953,33.75070745120637:-84.38999947847276,33.75063782335614:-84.38996217251537,33.750701703484076:-84.38992112827577",
+            "name": null
+        },
+        {
+            "locationUid": "LOC-ATL-0009-3",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "33.749582039057785:-84.3907590415347,33.7495671129924:-84.39080999103714,33.74949236060805:-84.39079206066634,33.74954714762857:-84.39073509245566",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-325",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71479420135679:-117.15733872449066,32.71479420135679:-117.15738127551268,32.71514478969785:-117.15738141326892,32.71514478969785:-117.15734172449056",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-324",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71371280542716:-117.15680815265719,32.71371280542716:-117.15664045157568,32.71368582577899:-117.15664045157568,32.71368582577899:-117.15680815265719",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-323",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71478998271583:-117.1564439441322,32.71478998271583:-117.15648030967569,32.71507362441491:-117.15648030967569,32.71507362441491:-117.1564439441322",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-313",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71472440271358:-117.15755915342955,32.71472440271358:-117.15789723453096,32.714753597286425:-117.15789723453096,32.714753597286425:-117.15755915342955",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-307",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71540871661406:-117.15750211411847,32.71540871661406:-117.15753634268107,32.71559163302659:-117.15753634268107,32.71559163302659:-117.15750211411847",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-306",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71254411487761:-117.15750672897374,32.71251261826958:-117.15750672897374,32.712509020983155:-117.15815701226167,32.71254051759119:-117.15815701226167",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-297",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.714590950545734:-117.15821262048325,32.714619749099114:-117.15821262048325,32.714619749099114:-117.15791398282121,32.714590950545734:-117.15791398282121",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-290",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71377734658759:-117.15643753134002,32.71377734658759:-117.15648244774438,32.71400882763351:-117.15648244774438,32.71400882763351:-117.15643753134002",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-236",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71253779864321:-117.15809928215995,32.71251420135679:-117.15809755755548,32.71251120135679:-117.15821668848882,32.71253779864321:-117.15821868848882",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-220",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71352679864321:-117.15933613771851,32.713527697964814:-117.15929972456304,32.71325437773923:-117.15929772456303,32.71325417638244:-117.1593342754398",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-215",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.714767201356786:-117.15825486224576,32.71476630203518:-117.15828927550851,32.7149954751755:-117.1582902755085,32.71499587788908:-117.15825772449342",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-201",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71368320135679:-117.15730175451777,32.713712604070366:-117.15730175451777,32.713712604070366:-117.15685634111667,32.71368320135679:-117.15685634111667",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-198",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712485798643215:-117.15750358350384,32.71248649660803:-117.15746441308868,32.71225253839238:-117.15746327539246,32.71225233703559:-117.15750223926362",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-190",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71254652477235:-117.15732191366574,32.712547811617064:-117.1570632772749,32.7125190453783:-117.15706238199718,32.712517758533586:-117.15732101838802",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-189",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71253779864321:-117.15861214446264,32.71251140271358:-117.15861214446264,32.71250940271358:-117.15889386230226,32.71253779864321:-117.15889286230227",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-188",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712540395929636:-117.15889642662688,32.712508805427156:-117.15889697741771,32.712508805427156:-117.15911929797913,32.712540395929636:-117.1591187471883",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-184",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712660805427156:-117.15782603888943,32.712660805427156:-117.1575160722748,32.712630228492564:-117.1575160722748,32.712630228492564:-117.15782603888943",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-160",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.711948185627435:-117.15645316657712,32.711948185627435:-117.15642110139474,32.7116478122111:-117.15642110139474,32.7116478122111:-117.15645316657712",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-150",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712691:-117.15733927539888,32.71269089932161:-117.15737503277032,32.7129811188688:-117.15737510162148,32.7129810181904:-117.15733948195236",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-140",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712492583718536:-117.15838665916196,32.712285739749184:-117.15838665916196,32.712285739749184:-117.158418724586,32.712492583718536:-117.158418724586",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-115",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71160960407037:-117.15822779410522,32.71160960407037:-117.15748731607061,32.711578100678395:-117.15748731607061,32.711578100678395:-117.15822779410522",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-114",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71160240949752:-117.15877742251978,32.71160240949752:-117.1584569316961,32.71157360407037:-117.1584569316961,32.71157360407037:-117.15877742251978",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-282",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713347470860015:-117.15748501384718,32.713347470860015:-117.15752137931887,32.71352139532311:-117.15752137931887,32.71352139532311:-117.15748501384718",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-281",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71359092522689:-117.15755482515063,32.713562126583675:-117.15755482515063,32.713562126583675:-117.1578085677104,32.71359092522689:-117.1578085677104",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-276",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71370603839241:-117.15755696283132,32.713677239749195:-117.15755696283132,32.713677239749195:-117.1578449092522,32.71370603839241:-117.1578449092522",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-273",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71370423974917:-117.15785196897754,32.71367723974917:-117.15785196897754,32.71367723974917:-117.15821259806785,32.71370423974917:-117.15821259806785",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-272",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71358912658365:-117.15788189742139,32.713562126583646:-117.15788189742139,32.713562126583646:-117.1582104602895,32.71358912658365:-117.1582104602895",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-212",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71358159728642:-117.15892653307546,32.713551201356786:-117.1589253594116,32.71355060407036:-117.15913127544538,32.71358179864321:-117.15913327544537",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-213",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713584194572846:-117.15861705406382,32.713554100678394:-117.15861805406382,32.713551201356786:-117.1589225508907,32.71358309389445:-117.15892441316802",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-233",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713592993216054:-117.1583621138596,32.71355710067839:-117.1583621138596,32.713556100678396:-117.1586212005486,32.71359099321606:-117.1586212005486",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-229",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713517:-117.158418,32.713517:-117.15838765570234,32.71331032346777:-117.15838665570234,32.71331012211099:-117.15842",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-225",
+            "locationType": "PARKING_ZONE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713930891456904:-117.15828,32.713930891456904:-117.158251,32.713732:-117.158251,32.713731:-117.15828",
+            "name": null
+        }
+    ],
+    "last": true,
+    "totalElements": 52,
+    "totalPages": 1,
+    "sort": null,
+    "first": true,
+    "numberOfElements": 52,
+    "size": 2000,
+    "number": 0
+}

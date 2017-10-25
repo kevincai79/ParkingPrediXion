@@ -1,0 +1,412 @@
+{
+    "content": [
+        {
+            "locationUid": "LOCATION-20-1054-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71254177829138:-117.15820599999782,32.71257197286423:-117.15820799999781",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1054-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712598952512394:-117.1581741015821,32.712578952512395:-117.15817237697763",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1054-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71263492537662:-117.1581741015821,32.71261492537662:-117.15817237697763",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1081-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71158442306541:-117.1584569316961,32.711555617638254:-117.1584569316961",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1081-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71155744341724:-117.15851302866774,32.711528637990085:-117.15851302866774",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1024-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71364902713577:-117.15724831137271,32.71367663120614:-117.15724831137271",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1024-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713622047487604:-117.15724831137271,32.71364965155797:-117.15724831137271",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1024-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713595067839435:-117.15724831137271,32.7136226719098:-117.15724831137271",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1008-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71367683256293:-117.15689779018251,32.71364985291476:-117.15689779018251",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1008-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71364985291476:-117.1569191674372,32.713622873266594:-117.1569191674372",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1008-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713622873266594:-117.1569191674372,32.713595893618425:-117.1569191674372",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1050-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.711560221708616:-117.15755331162373,32.711593214924676:-117.15755431162374",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1050-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71153324206045:-117.15755331162534,32.71156623527651:-117.15755431162535",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1066-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.714795979648166:-117.15829975505228,32.714795979648166:-117.15832775505228",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1066-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.714795979648166:-117.15833182133186,32.714795979648166:-117.15837051009493",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1066-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.714795979648166:-117.15837457638413,32.714795979648166:-117.1584132651472",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1046-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.7124386244222:-117.15835673141305,32.7124386244222:-117.15838452144807",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1046-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71242963120614:-117.15832466596963,32.71242963120614:-117.15835245600465",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1046-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71242963120614:-117.15828191204507,32.71242963120614:-117.15830970208009",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1078-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71257109452578:-117.15760826962496,32.712544094525775:-117.15760826962496",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1078-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.712580966711606:-117.15765037785854,32.71260796671161:-117.15765037785854",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1078-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71261064432459:-117.15765037785854,32.712637644324595:-117.15765037785854",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1061-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71349899321606:-117.1592699341806,32.713496993216054:-117.1592979341806",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1061-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71349899321606:-117.15923786835963,32.713496993216054:-117.15926586835963",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1061-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71349899321606:-117.15919511393166,32.713496993216054:-117.15922311393166",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1030-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71273110746234:-117.15740502945114,32.71273100678394:-117.15737582289765",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1030-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71273110746234:-117.15743709498439,32.71273100678394:-117.1574078884309",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1030-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71273110746234:-117.15747984902872,32.71273100678394:-117.15745064247523",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1037-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.711475757939546:-117.15722017772293,32.7114523755778:-117.15722017772293",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1037-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.711502737587715:-117.15722017772293,32.71147935522597:-117.15722017772293",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1043-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71256657693459:-117.1581741015821,32.71254477829138:-117.15817344582652",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1043-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71260254979882:-117.1581741015821,32.712580751155606:-117.15817344582652",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1043-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71263852266304:-117.1581741015821,32.71261672401983:-117.15817344582652",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1064-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71242963120614:-117.15835673141305,32.71242963120614:-117.15838452144807",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1064-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71242963120614:-117.15831397748849,32.71242963120614:-117.15834176752351",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1064-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71242963120614:-117.15828191204507,32.71242963120614:-117.15830970208009",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1018-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71377800678395:-117.15832275454677,32.71377800678395:-117.15829375454678",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1018-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71377800678395:-117.15835482045523,32.71377800678395:-117.15832582045523",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1018-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71377800678395:-117.15839757499984,32.71377800678395:-117.15836857499984",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1083-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71361610623185:-117.1579567170628,32.713589106231844:-117.1579567170628",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1083-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71365207909607:-117.1579567170628,32.71362507909607:-117.1579567170628",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1083-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71367905874424:-117.1579567170628,32.71365205874424:-117.1579567170628",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1072-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71465212467692:-117.15817692577515,32.71462872205317:-117.15817692577515",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1072-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.7146970907572:-117.15817692577515,32.71467368813345:-117.15817692577515",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1072-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71472407040537:-117.15817692577515,32.71470066778162:-117.15817692577515",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1041-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71257479126523:-117.15727277167777,32.71254962231289:-117.15727187640005",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1041-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71261076412946:-117.15727277167777,32.71258559517712:-117.15727187640005",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1041-3",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71263774377763:-117.15727277167777,32.712612574825286:-117.15727187640005",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1073-1",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.713661051960294:-117.15758838216361,32.7136880519603:-117.15758838216361",
+            "name": null
+        },
+        {
+            "locationUid": "LOCATION-20-1073-2",
+            "locationType": "TRAFFIC_LANE",
+            "parentLocationUid": null,
+            "coordinatesType": "GEO",
+            "coordinates": "32.71362507909607:-117.15758838216361,32.71365207909607:-117.15758838216361",
+            "name": null
+        }
+    ],
+    "last": false,
+    "totalElements": 118,
+    "totalPages": 3,
+    "sort": null,
+    "first": true,
+    "numberOfElements": 50,
+    "size": 50,
+    "number": 0
+}
