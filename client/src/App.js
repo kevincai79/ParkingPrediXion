@@ -10,9 +10,15 @@ const Map = ReactMapboxGl({
 
 class App extends Component {
 
+  constructor() {
+    super();
+    this.state = {parking: []}
+  }
+
   componentDidMount() {
-    axios.get(`http://192.168.1.119:8081`)
+    axios.get(`http://localhost:8081`)
       .then(res => {
+        console.log(res)
         this.setState({parking: res.data});
       });
   }
