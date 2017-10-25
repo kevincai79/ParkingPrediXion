@@ -1,14 +1,24 @@
 import React, { Component } from 'react';
 import './App.css';
 import axios from 'axios';
-import ReactMapboxGl, { Layer, Feature } from "react-mapbox-gl";
-// import from "react-mapbox-gl/css";
+import ReactMapboxGl, { Layer, Feature, Marker, ScaleControl } from "react-mapbox-gl";
 
 const Map = ReactMapboxGl({
   accessToken: "pk.eyJ1Ijoia2V2aW5jYWk3OSIsImEiOiJjajk2YXBqMHUwMjd6MnpvbHU3a3FiODE4In0.Akrpxhy1oIxzIQ34EB1adg"
 });
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {coordinates: [-117.1611, 32.7157]}
+
+  }
+
+  componentDidMount() {
+    navigator.geolocation.getCurrentPosition((position) => {
+      this.setState({coordinates: [position.coords.longitude, position.coords.latitude]});
+});
+  }
 
   constructor() {
     super();
@@ -32,22 +42,22 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Parking Predixion</h1>
+        <h1>Smart Park</h1>
         <Map
+          center={this.state.coordinates}
           style="mapbox://styles/mapbox/streets-v9"
-	  onStyleLoad={this._onStyleLoad.bind(this)}
-	  center={[-117.15755482515063, 32.71359092522689]}
-	  zoom={[15]}
+	        onStyleLoad={this._onStyleLoad.bind(this)}
+	        zoom={[15]}
           containerStyle={{
             height: "100vh",
             width: "100vw"
-          }}>
-          <Layer
-            type="symbol"
-            id="marker"
-            layout={{ "icon-image": "marker-15" }}>
-            <Feature coordinates={[-0.481747846041145, 51.3233379650232]}/>
-          </Layer>
+          }}
+        >
+            <Marker
+              coordinates={this.state.coordinates}
+            >
+              <img src="pin.png" style={{height: "45px", width: "45px"}}/>
+            </Marker>
       </Map>
       </div>
     );
