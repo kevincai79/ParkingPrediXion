@@ -13,12 +13,11 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Smart Park</h1>
-        <div id="mapbox">
         <Map
           style="mapbox://styles/mapbox/streets-v9"
           containerStyle={{
-            height: "80vh",
-            width: "60vw"
+            height: "100vh",
+            width: "100vw"
           }}
           center={[-117.1611, 32.7157]}
           zoom={[15]}
@@ -30,7 +29,6 @@ class App extends Component {
             <Feature coordinates={[-0.481747846041145, 51.3233379650232]}/>
           </Layer>
       </Map>
-      </div>
       </div>
     );
   }
