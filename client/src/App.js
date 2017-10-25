@@ -10,7 +10,7 @@ const Map = ReactMapboxGl({
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {coordinates: [-122.4096922, 37.787933]}
+    this.state = {coordinates: [-117.1611, 32.7157]}
 
   }
 
@@ -25,15 +25,16 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Parking Predixion</h1>
+        <h1>Smart Park</h1>
         <Map
           center={this.state.coordinates}
           style="mapbox://styles/mapbox/streets-v9"
-          zoom={[11]}
+          zoom={[15]}
           containerStyle={{
             height: "100vh",
             width: "100vw"
-          }}>
+          }}
+        >
             <Marker
               coordinates={this.state.coordinates}
             >
