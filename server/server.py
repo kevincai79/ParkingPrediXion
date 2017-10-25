@@ -144,4 +144,17 @@ def run():
   print('running server...')
   httpd.serve_forever()
 
-run()
+# run()
+
+from flask import Flask
+import os
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return (json.dumps(my_response), {'Content-type': 'application/json', 'Access-Control-Allow-Origin': '*'})
+
+if __name__ == '__main__':
+    port = int(os.getenv('PORT', 8081))
+    app.run(host='0.0.0.0', port=port, debug=True)
