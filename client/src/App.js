@@ -3,6 +3,8 @@ import './App.css';
 import ReactMapboxGl, { Layer, Popup, Feature, Marker, ScaleControl } from "react-mapbox-gl";
 import axios from 'axios'
 
+const ParkingIconUrl = "https://www.xtreet.org/img/icn_big_marker_parking.png"
+
 const Map = ReactMapboxGl({
   accessToken: "pk.eyJ1Ijoia2V2aW5jYWk3OSIsImEiOiJjajk2YXBqMHUwMjd6MnpvbHU3a3FiODE4In0.Akrpxhy1oIxzIQ34EB1adg"
 });
@@ -80,12 +82,20 @@ class App extends Component {
             <img src="pin.png" style={{height: "45px", width: "45px"}}/>
           </Marker>
           {this.state.suggestions.map(({msg, long, lat}, idx) => (
+            <div key={idx} >
             <Popup
               coordinates={[long, lat]}
-              key={idx}
+              offset={ [100, -50 ] }
+              anchor={{bottom: 0, left: 0}}
             >
               {msg}
             </Popup>
+            <Marker
+              coordinates={[long, lat]}
+            >
+              <img src={ParkingIconUrl} style={{height: "35px", width: "35px"}}/>
+            </Marker>
+          </div>
           ))}
         </Map>
         <input type="text"
