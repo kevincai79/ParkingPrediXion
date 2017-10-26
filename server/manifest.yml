@@ -1,4 +1,4 @@
 ---
 applications:
-- name: fiery-doves-server
+- name: fiery-doves-server-v2
   buildpack: https://github.com/cloudfoundry/buildpack-python.git
