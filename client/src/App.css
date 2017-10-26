@@ -16,7 +16,26 @@ h1 {
   z-index: 1;
   margin-top: 0;
   width: 100vw;
-  font-size: 1.4em;
+  font-size: 1.6em;
   background-color: #005EB8;
   color: white;
+  padding: 8px;
+}
+
+.big-p {
+  font-size:1.3em;
+}
+
+.mapboxgl-popup-content {
+  background-color: "blue"
+}
+.mapboxgl-popup-content {
+}
+
+a {
+  text-decoration: none
+}
+
+.hidden {
+  display: none
 }
