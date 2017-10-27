@@ -1,4 +1,4 @@
-# SmartParking
+# Parking PrediXion
 ## Build Instruction
 * Clone repo.
 * Run `npm install` from the root. This installs the dependencies for the server.
