@@ -1,4 +1,11 @@
 # Parking PrediXion
+## About
+Winner at the 2017 GE Minds + Machines Appathon.
+<p align="center">
+  <img width="262" height="528" src="https://github.com/joshleichtung/ParkingPrediXion/blob/development/readme_assets/parking-predixion-example.gif?raw=true">
+</p>
+Parking PrediXion is mobile web and mobile application built in React, Node and Python, integrating Predix's CityIQ API and hosted on Predix. Parking PrediXion collects data from the CityIQ API while our algorithm processes this data in order to offer users an accurate prediction as to city conditions and parking availability up to an hour in advance. This will allow users to plan their time as well as their travel decisions to allow for reduced travel time as well as carbon dioxide emissions. Parking PrediXion in the near future will be able to predict urban parking conditions a week up to a month in advance to allow users to make travel plans much more efficiently and lower their carbon dioxide emissions in the process.
+
 ## Build Instruction
 * Clone repo.
 * Run `npm install` from the root. This installs the dependencies for the server.
