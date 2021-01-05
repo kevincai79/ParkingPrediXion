@@ -9,7 +9,7 @@
     "react-dom": "^16.0.0",
     "react-mapbox-gl": "^2.7.0",
     "react-scripts": "1.0.14",
-    "axios": "0.18.1"
+    "axios": "0.21.1"
   },
   "scripts": {
     "start": "react-scripts start",
